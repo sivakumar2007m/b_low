@@ -1,0 +1,4 @@
+device:
+  name: sensor_01
+  interval: 60
+  unit: celsius
