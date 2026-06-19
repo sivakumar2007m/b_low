@@ -1,0 +1,3 @@
+Project notes for IoT temperature monitor.
+Sensor calibrated on 2026-06-01.
+No issues found during testing.
